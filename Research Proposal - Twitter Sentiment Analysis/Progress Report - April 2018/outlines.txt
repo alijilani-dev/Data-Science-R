@@ -1,0 +1,129 @@
+http://www.citethisforme.com/
+
+Introduction:
+-------------
+ Explain Social Media, how masses communicate over social media to report experiences with technology.. use SM sentiment as a measure of success.
+This research will answer the following questions, popular platforms.
+
+Introduction to binary classifiers, what techniques are used by Binary Classifiers. like perceptrons, (Neural Networks), or a number of techniques to measure sentiments..
+common are 
+
+Does it agree on a scale or is it a binary manner. Use both techniques to answer the questions.
+
+1. binary classification (split world into two) or one of two categories.. 
+2. correleation measure is a measure of agreeing scale of agreement. (high/ low value) 
+
+Chapter 1: Research Questions:
+------------------------------
+
+R1: Does aggregate social media sentiment agree with online user reviews of technology?
+H1: Aggregate sentiment analysis score on social media will correlate to aggregate online user reviews of technology.
+
+H2: Binary Classification could be used to classify social media sentiment as positive or negative in a way that corresponds with online user reviews of technology.
+Use SVM in research design.. A well known classifiers that we will use is SVM.. 
+
+Both H belong to one R but deal with them separately.
+
+2: Literature Review:
+---------------------
+No need to explain Pearsons R in Literature Review. Just quickly say it.
+Don't go too broad. The new data is the most interesting part not the old. Don't mention anything later that you have not explained/ touched on in the Literature Review.
+
+Topics to cover in literature review.
+
+a. text mining
+b. social media
+c. sentiment analysis
+d. binary classification 
+e.
+f.
+g.
+h.
+i.
+j.
+k.
+l.
+
+3: Theory/ Hypothesis
+---------------------
+H1: Aggregate sentiment analysis score on social media will correlate to aggregate online user reviews of technology.
+
+H2: Binary Classification could be used to classify social media sentiment as positive or negative in a way that corresponds with online user reviews of technology.
+Use SVM in research design.. A well known classifiers that we will use is SVM.. 
+
+4. Research Design/ Methodology:
+--------------------------------
+What data i need, how i get it, hypo 1: SA Technigue used. to get score.. pearsone as corr measure.. twitter as source because text based.. 1000 tweets, in a single week, no need to get snapshots as we are not going into any changing patterns shift in sentiment.
+report the date range taken. SVM as classifier being used. Nail things to H using reviews from Amazon, Twitter data, How to test these hypothesis.
+
+20 technologies, keywords or tweets used to gather data.. specifics. Note dates you took data.. relevant and commonly discussed technologies iwatch, nissan leaf, google car, windows 10. Reviews should be available on it.
+Amazon trusted reviews.
+You can also use someother source of reviews related to cars e.g.
+
+mixing reviews from sites means.. 100 from amazon + 50 from x site => (100 x score on amazon + 50 x score on x site )/ 150 gives individual basis..
+now free to use any website for reviews..
+
+5: I could have also explained my findings out of data gathered or pearsons applied to technique used if i had some research performed but it is not requried.
+
+It is a mandatory thing and contributes to the final not in marks but the overall confidence.
+
+Either and algorithm or adhock (note tool or famework being used) Pears for correlation) 
+how gather ing data
+Binary Classfier : SVM
+
+
+In disser
+
+Two techniques: Hypo each.
+
+Perceptrons or SVM
+
+H3: maybe much applicable on Domestic technologies as compared to organizational technologies.. 
+
+Structure:
+
+Research Questions should be up high. Not on page 4. Dont give literature before Research questions.
+
+If sentiment analysis of Agregate current twitter data leads/ relates to online reviews (Amazon reviews) .. Agregate reviews.
+arbitrary two weeks window of data.. limitation due to cost ...
+Are they the same as social media buzz.
+Above 3 star should have negative sentiment.  Above 3 Stars is success below is failure.
+
+
+Can you get to correltate SVM with reviews.
+Sentiment scores correspond to stars on reviews.
+
+
+
+couple of dozen of technologies..does the star review go up when sentiment score goes up.. and vise versa..
+
+Co-relational measure will be easier to implement in R
+
+Algorithms...
+
+Usually used.. Pearson's R - Correlation Coefficient to identify correlation of sentiments on twitter with reviews..
+P value and R values
+P will be below 0.05 (less than .05 percent of error possible)
+R will be between 0 and 1
+
+Interim report..
+
+
+2 weeks
+review sites: Why Amazon.
+how many tweets.
+keywords
+SA algo to apply
+what correlation algo..
+what binary classifier.. SVM..
+Add a column for success and failure..
+
+Questions: 
+We will need sentiment scores as outcomes in case of correlations..
+Will it be possible to meet during upcoming two weeks holidays?
+
+
+1. General Update 
+2. Draft of Interim Report. first chapters.
+
+Next class on 12th April.

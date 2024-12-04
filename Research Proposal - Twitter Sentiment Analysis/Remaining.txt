@@ -1,0 +1,81 @@
+Add References for TM, RSentiment and Shiny.
+Conclusion or discussion of results. 
+Tables or Diagrams make it easy to understand..
+
+
+Approach:
+Supervised and unsupervised sentiment analysis
+
+Breakdown of sentences into Phrases.
+
+Different types of sentences:
+
+Conditional sentences, Question sentences, sarcastic sentences.
+
+Before identifying the polarity (i.e., positive or negative) of a message, it is required that we analyze only subjective sentences and not objective 
+
+GOAL!!!!
+
+
+Preliminary Literature Review:
+
+- What Social Media sources have impact or are relevant can be used as sources of research data?
+- What Social- Media/ Twitter Sentiment Analysis are commonly being used?
+- What techniques/ algorithms are being used by people for sentiment analysis over twitter feeds?
+
+
+Proposal should answer these questions
+
+1. What did you set out to do? 
+2. How did you set out to do it? 
+3. Why did you choose that approach (think about the RQs 
+and the theory)? 
+4. What methods were associated with your approach? 
+5. How did the approach fit the research questions? 
+6. Have I covered all the topics I need to cover in order to 
+explain my method?
+
+
+Theory behind a Corroborated Hypothesis
+
+-	Variables clearly defined and labelled
+-	Scientific Research Design
+-	Data Collection, Analysis and Interpretation.
+-	Deduction Hypotheses substantiated? Research Question answered.
+
+
+
+1. Define the concepts in your research questions – refine the questions if 
+Necessary
+
+2. Write down propositions which state relationships between the concepts
+
+Propositions:
+
+R1. Success or failure of technology release are measureable through social media Sentiment Analysis.
+R2. There is enough valuable pre-release historical data in social media that we can use for sentiment analysis
+R3. Results of the S.A. Tool will be trust worthy.
+R4. Architecture of the Software Tool will allow sentiment analysis of social media data to an acceptable level of accuracy. (S.A. Tool will be able to clearly analyze either success or failure of a technology release to a certain level of accuracy)
+R5. Technology Release will be preceded by sentiment analysis
+R6. It will be possible to perform S.A. through social media data
+
+Theory/ Working Hypothesis: they associate to RQ. But use research questions to inform hypothesis. i.e. by testing these hypothesis, you get the answers to your research questions.
+
+H1: If office walls are soft colored, they are more productive.
+H2: Natural light leads to productivity.
+H3: Offices with windows are more productive.
+
+e.g.
+Choose S.A. Algo
+
+H1: Algo X is more suitable than Algo Y for S.A. regarding S.M. S.A.
+Test both Algos and compare results to Accept or reject H1. If evidence is strong enough, accept it else reject it. Way of framing things.
+
+H2: 
+
+
+Originality/value
+– This paper’s main contribution is to demonstrat the competitive intelligence via the consumer opinion mining of social media data. Researchers, business analysts, and practitioners can adopt this method of social media analysis to achieve their objectives and to implement practical procedures for data collection, spam elimination, machine learning classification, sentiment analysis, feature categorization, and result visualization.
+
+
+
